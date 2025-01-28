@@ -1,0 +1,8 @@
+age: 30
+details:
+  city: New York
+  experience: 5
+name: Bob
+skills:
+- Django
+- DevOps
